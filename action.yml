@@ -1,6 +1,6 @@
 name: 'Hugo - AWS S3 deploy'
 description: 'Deploy Hugo with an S3 target'
-author: 'Pedro Lopez'
+author: 'Bruno Geronimo'
 branding:
   icon: 'book'
   color: 'purple'
